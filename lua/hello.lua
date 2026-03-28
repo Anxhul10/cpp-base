@@ -1,1 +1,3 @@
-print("Hello, World!")
+function hello()
+    return "hi"
+end
